@@ -1,6 +1,7 @@
 <h4 align="left">for contact</h4>
 
  - Discord: [mamixslump#1337](https://discord.com/users/222442639365111808)
+ - Site: https://mamixslump.live
 
 <h4 align="left">languages</h4>
 <p align="left">
